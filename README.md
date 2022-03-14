@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sergio-garc%c3%ada-villalba-0a7160208/?challengeid=aqf8cfj9iazglwaaax-ity9x_jbeauqbjy5risd9zbvr4-sxpk_l3_w_fgyo3majnxaqcw1tnojtyqtr8_ldlydyepvpt4p76q&submissionid=b2346520-dd43-dc16-148e-ffe97fb05069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-garc%c3%ada-villalba-0a7160208/?challengeid=aqf8cfj9iazglwaaax-ity9x_jbeauqbjy5risd9zbvr4-sxpk_l3_w_fgyo3majnxaqcw1tnojtyqtr8_ldlydyepvpt4p76q&submissionid=b2346520-dd43-dc16-148e-ffe97fb05069" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sergio-garc%C3%ADa-villalba-0a7160208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergio-garc%c3%ada-villalba-0a7160208/?challengeid=aqf8cfj9iazglwaaax-ity9x_jbeauqbjy5risd9zbvr4-sxpk_l3_w_fgyo3majnxaqcw1tnojtyqtr8_ldlydyepvpt4p76q&submissionid=b2346520-dd43-dc16-148e-ffe97fb05069" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
