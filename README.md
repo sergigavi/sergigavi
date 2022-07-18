@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio García</h1>
 <h3 align="center">A young Spanish programmer eager to learn.</h3>
 
-- 🌱 I’m currently learning **MongoDB & Rust.**
+- 🌱 I’m currently learning **MongoDB, Docker & Rust.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sergigavi](https://github.com/sergigavi)
 
